@@ -45,6 +45,10 @@ Si vous ne souhaitez pas mettre vos noms complets dans les commits et les noms d
   - Faire une modification dans le fichier README.md pour remplacer son contenu par les noms des contributeurs
     - Spécifier quel élève fait quelle partie (`Elève 1 = Jane Doe`, etc.)
 
+    élève 1 = Ilhan Rodrigues 
+    élève 2 = Jumet Huang
+    élève 3 = Shuayb Bouabdellah
+    
 S'il n'y a pas de troisième élève, ces tâches sont à répartir entre les deux élèves présents.
 
 ### Mise en commun
