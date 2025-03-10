@@ -70,3 +70,4 @@ Une fois ces trois étapes effectuées, sur GitHub :
 Si vous avez du temps à la fin du TP, vous pouvez penser à regarder du côté des configurations de votre repository, pour peut-être rajouter une règle de protection de la branche.
 
 *A vos terminaux !*
+protected ?
